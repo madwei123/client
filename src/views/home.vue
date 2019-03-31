@@ -2,7 +2,7 @@
 <template>
   <div class="home">
 			<div class="container">
-				<h1>我是主页 哈哈rrneheniaghhehe</h1>
+				<h1>我是主页 哈 中国人rrnghhehe</h1>
 				<p class="lead">
 					我是主页要展示的内容
 				</p>
